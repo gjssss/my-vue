@@ -1,0 +1,20 @@
+{
+  "name": "my-vue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "rollup -c -w",
+    "build": "rollup -c"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "gjssss",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^25.0.0",
+    "@rollup/plugin-typescript": "^11.1.1",
+    "rollup": "^3.21.7",
+    "tslib": "^2.5.0",
+    "typescript": "^5.0.4"
+  }
+}
